@@ -24,7 +24,7 @@ class FirstApp extends StatelessWidget {
               children: <Widget>[
                 CircleAvatar(
                   radius: 60,
-                  backgroundImage: AssetImage('images/cm.png'),
+                  backgroundImage: AssetImage('image/cm.png'),
                 ),
                 TextField(
                     decoration: InputDecoration(
