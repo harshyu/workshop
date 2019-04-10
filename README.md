@@ -1,6 +1,5 @@
 # workshop
 
-all Workshop Works
 
 ## Getting Started
 
